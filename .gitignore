@@ -1,0 +1,16 @@
+# System
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Project Specific
+_backup/
